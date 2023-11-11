@@ -1,13 +1,7 @@
-### Youtube clone B2
+# Youtube Clone 
 
+# Preview
 
-npm i -g create-react-app
-create-react-app myapp
-cd myapp
-npm start
+![first page](https://github.com/Priyanshu-Roushan/youtube/assets/149755709/6c72ec02-87b3-49c1-9d81-5a60ba209b44)
+![Screenshot 2](https://github.com/Priyanshu-Roushan/youtube/assets/149755709/962e561e-16e4-4f10-997c-696d545beaa1)
 
-### Results:
-
-![Home Page](youtubecloneb2-home-page.png?raw=true "Home page")
-
-![Video Page](youtubecloneb2-video-page.png?raw=true "Video page")
