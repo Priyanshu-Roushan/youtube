@@ -1,11 +1,4 @@
-### Youtube clone B2
-
-
-npm i -g create-react-app
-create-react-app myapp
-cd myapp
-npm start
-
+### Youtube Clone
 ### Results:
 
 ![Home Page](youtubecloneb2-home-page.png?raw=true "Home page")
